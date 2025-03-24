@@ -54,8 +54,8 @@
     "coverage": "vitest run --coverage --coverage.include=src/**/*.ts",
     "build": "tsc",
     "start": "npm run build && node dist/ejercicio-1.js",
-    "ej1": "node dist/ejercicio-1.js",
-    "ej2": "node dist/ejercicio-2.js"
+    "ej1": "node dist/modificacion/ejercicio-1.js",
+    "ej2": "node dist/modificacion/ejercicio-2.js"
   },
   "keywords": [],
   "author": "",
