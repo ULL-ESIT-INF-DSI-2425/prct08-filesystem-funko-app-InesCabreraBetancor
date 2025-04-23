@@ -1,0 +1,12 @@
+{
+  "_id": "1",
+  "_nombre": "elena",
+  "_descripcion": "pop",
+  "_tipo": "pop",
+  "_genero": "animacion",
+  "_franquicia": "nemo",
+  "_numero": 24,
+  "_exclusivo": true,
+  "_caracteristicas": "aaa",
+  "_valor": 256
+}
